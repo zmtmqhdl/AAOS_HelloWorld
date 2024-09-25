@@ -19,4 +19,4 @@ AAOS 환경에서 화면에 메시지를 출력하는 앱
 <br>
 
 ## 🛠️ 사용 기술
-[![My Skills](https://skillicons.dev/icons?i=android,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
