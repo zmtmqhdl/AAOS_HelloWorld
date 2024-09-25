@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0cfdac4-2528-42f3-84f6-a0660a4fc503" width="50%">
+  <img src="https://github.com/user-attachments/assets/c0cfdac4-2528-42f3-84f6-a0660a4fc503" width="30%">
 </p>
 
 ## 🖥️ WKU MAP
