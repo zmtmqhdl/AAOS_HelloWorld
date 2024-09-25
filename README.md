@@ -12,7 +12,7 @@ AAOS 환경에서 화면에 메시지를 출력하는 앱
 
   <br>
 
-  (1) 앱 실행 화면  
+  (1) 메시지 출력 화면  
   <img src="https://github.com/user-attachments/assets/4816b6f7-8a1d-406e-b0f1-4223247cc47c" width="80%">
   
 
