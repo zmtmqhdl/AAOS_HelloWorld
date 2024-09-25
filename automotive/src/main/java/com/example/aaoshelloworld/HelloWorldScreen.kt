@@ -12,7 +12,7 @@ class HelloWorldScreen(carContext: CarContext) : Screen(carContext) {
     override fun onGetTemplate(): Template {
         val row = Row.Builder()
             .setTitle("Hello car!")
-            .addText("hahahaha")
+            .addText("test")
             .build()
 
         val pane = Pane.Builder()
