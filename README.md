@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c0cfdac4-2528-42f3-84f6-a0660a4fc503" width="20%">
 </p>
 
-## 🖥️ WKU MAP
+## 🖥️ AAOS HelloWorld
 AAOS 환경에서 화면에 메시지를 출력하는 앱
 
 <br>
