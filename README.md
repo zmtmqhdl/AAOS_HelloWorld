@@ -7,6 +7,11 @@ AAOS 환경에서 화면에 메시지를 출력하는 앱
 
 <br>
 
+## 🗓️ 개발 기간
+2023.08 ~ 2023.09
+
+<br>
+
 ## 🧑‍💻 참여 인원
 |  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
 |:---:|
@@ -22,9 +27,11 @@ AAOS 환경에서 화면에 메시지를 출력하는 앱
 
   (1) 메시지 출력 화면  
   <img src="https://github.com/user-attachments/assets/4816b6f7-8a1d-406e-b0f1-4223247cc47c" width="80%">
-  
 
 <br>
+
+## ✏️ 배운 내용
+- AAOS 환경 및 구조에 대해 배울 수 있었습니다.
 
 ## 🛠️ 사용 기술
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
