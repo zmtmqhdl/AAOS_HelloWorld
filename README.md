@@ -33,5 +33,7 @@ AAOS 환경에서 화면에 메시지를 출력하는 앱
 ## ✏️ 배운 내용
 - AAOS 환경 및 구조에 대해 배울 수 있었습니다.
 
+<br>
+
 ## 🛠️ 사용 기술
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
