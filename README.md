@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0cfdac4-2528-42f3-84f6-a0660a4fc503" width="20%">
+  <img src="https://github.com/user-attachments/assets/93eee83e-8175-40fe-ad20-b63c0ff6e7d7" width="20%">
 </p>
 
 ## 🖥️ AAOS HelloWorld
