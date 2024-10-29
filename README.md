@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ AAOS HelloWorld
-AAOS 환경에서 자체 내장 지도를 다뤄보기 위해 진행한 Android OS App
+AAOS 환경과 구조를 이해하고 기초를 다지기 위해 진행한 Android OS App
 
 <br>
 
